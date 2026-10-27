@@ -1,0 +1,9 @@
+*.egg-info/
+.venv/
+.pytest_cache/
+__pycache__/
+challenge_data/
+data-v1.tar.gz
+*.ipynb_checkpoints/
+.ipynb_checkpoints/
+*.pyc
